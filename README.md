@@ -1,4 +1,5 @@
-## Hi there 👋
+## Ola, meu nome é Yuran Óscar Nhassengo, junior Fullstack  👋
+Bem Vindo ao meu repositorio
 
 <!--
 **yuran-nhassengo/yuran-nhassengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
