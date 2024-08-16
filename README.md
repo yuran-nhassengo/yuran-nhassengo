@@ -6,11 +6,11 @@ Como um líder natural, valorizo o trabalho em equipe e sou conhecido por minha 
 
 
 
-![Yuran GitHub stats](https://github-readme-stats.vercel.app/api?username=yuran-nhassengo&show_icons=true&theme=dracula)
+![Yuran GitHub stats](https://github-readme-stats.vercel.app/api?username=yuran-nhassengo&show_icons=true&theme=dracula&locale=pt-br)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuran-nhassengo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuran-nhassengo&hide_progress=true&locale=pt-br)
 
 ## Tecnologias que uso
 
